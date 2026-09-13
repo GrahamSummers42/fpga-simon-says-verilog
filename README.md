@@ -10,7 +10,7 @@ The design uses modular Verilog logic for pseudo-random number generation, seque
 
 ## Demo
 
-[Watch the FPGA Simon Says demo](media/simon-says-demo.mp4)
+[Watch the FPGA Simon Says demo](media/Simon_says_demo.mp4)
 
 ## Key Features
 
